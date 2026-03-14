@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Blitz-Swarm: Parallel Multi-Agent Consensus Architecture"
+type: software
+authors:
+  - given-names: Joona
+    family-names: Tyrninoksa
+    alias: Darkfire
+repository-code: "https://github.com/Joona-t/blitz-swarm"
+license: MIT
+version: "0.1.0"
+date-released: "2026-03-12"
+abstract: >-
+  A parallel multi-agent architecture where all agents execute simultaneously,
+  share memory through a live blackboard, and converge through unanimous voting
+  with explicit dissent preservation. Implements G-Memory Tier 1 with Tiers 2-3
+  proposed.
+keywords:
+  - multi-agent systems
+  - parallel execution
+  - consensus mechanisms
+  - dissent preservation
+  - G-Memory
